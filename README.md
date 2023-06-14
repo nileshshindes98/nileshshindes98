@@ -32,13 +32,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## ☃️ **MY LEARNING RESOURCES**
-
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
-[![w3schools](https://img.shields.io/badge/w3schools-gray?style=for-the-badge&logo=w3schools&logoColor=35914c)][w3schools]
-[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
-[![javatpoint](https://img.shields.io/badge/javatpoint-FF0000?style=for-the-badge&logo=javatpoint&logoColor=white)][javatpoint]
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshshindes98&show_icons=true&locale=en" alt="nileshshindes98" /></p>
