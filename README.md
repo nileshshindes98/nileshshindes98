@@ -6,7 +6,7 @@
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
 
-🌱The skills I'm learning right now are Shell Programming, Java.
+🌱The skills I'm learning right now are JAVASCRIPT Programming, Java.
 
 💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
 
